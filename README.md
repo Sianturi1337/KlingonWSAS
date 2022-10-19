@@ -6,6 +6,10 @@ Welcome to Klingon WSAS ( Web Server Auto Setup )
 
 This is My First Automation Tools in Bash
 
+On this tools, you can which one your favorite web server.
+
+NGINX or APACHE2.
+
 ===================================================
 
 How to use :
